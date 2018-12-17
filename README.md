@@ -1,5 +1,6 @@
-# sanders-of-catan
-🐑 A socialist ruleset for the Settlers of Catan board game
+# *Sanders of Catan*
+
+> Playing the award-winning game like a true Socialist
 
 ## Improving on perfection
 
