@@ -18,12 +18,12 @@ Players acquire resources more rapidly in *Sanders of Catan*.
 
 1. At the beginning of each turn, a player rolls the dice 
 2. The roll activates all of the tiles on the board with a chip with the same number 
-3. Next, the roll activates all of the resources of the same type that were activated in the previous step
-4. Players that have a building on an active resource draw the appropriate number of resource cards from the deck in a clock-wise manner from the roller
+3. Next, the roll activates all of the **resources** of the same type that were activated in the previous step
+4. Players that have a building on an **active resource** draw the appropriate number of resource cards from the deck in a clock-wise manner from the roller
 
 **Example**
 
-> Bobby rolls an eight. On the game board, one wood and one wheat tile have a chip with the number eight. That means all of the wood tiles and all of the wheat tiles on the board yield resources. Bobby has a settlement on an wood tile which bears a chip with a 3, and a city on a wheat tile which bears a chip with a 9. Since both of those resources were activated by his roll, Bobby will draw one wood and two wheat resource cards. 
+> Bobby rolls an eight. On the game board, one wood and one wheat tile have a chip with the number eight. That means all of the wood tiles and all of the wheat tiles on the board yield resources. Bobby has a settlement on an wood tile which bears a chip with a 3, and a city on a wheat tile which bears a chip with a 9. Since both of those **resources** were activated by his roll, Bobby will draw one wood and two wheat resource cards. 
 
 ### The Taxman
 
